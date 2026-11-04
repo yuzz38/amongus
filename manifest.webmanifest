@@ -1,0 +1,13 @@
+{
+  "name": "Эмонг Ас — квест Among Us в Улан-Удэ",
+  "short_name": "Эмонг Ас",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060816",
+  "theme_color": "#060816",
+  "lang": "ru",
+  "icons": [
+    {"src": "img/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "img/icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}

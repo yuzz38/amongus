@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+Disallow: /README.md
+Disallow: /keywords.md
+
+User-agent: Yandex
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term&yclid&gclid&fbclid
+
+# AI-поисковики (GEO): разрешаем индексацию для ответов нейросетей
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: YandexAdditional
+Allow: /
+User-agent: YandexAdditionalBot
+Allow: /
+
+Host: https://emongas-uu.ru
+Sitemap: https://emongas-uu.ru/sitemap.xml

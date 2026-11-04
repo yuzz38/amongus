@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://emongas-uu.ru/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://emongas-uu.ru/img/hall.jpg</image:loc><image:title>Зал квеста Эмонг Ас в Улан-Удэ</image:title></image:image>
+    <image:image><image:loc>https://emongas-uu.ru/img/group.jpg</image:loc><image:title>Команда на квесте Among Us в Улан-Удэ</image:title></image:image>
+    <image:image><image:loc>https://emongas-uu.ru/img/briefing.jpg</image:loc><image:title>Детский день рождения на квесте Эмонг Ас</image:title></image:image>
+    <image:image><image:loc>https://emongas-uu.ru/img/bunker.jpg</image:loc><image:title>Настольная игра Бункер в Улан-Удэ</image:title></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://emongas-uu.ru/video/poster.jpg</video:thumbnail_loc>
+      <video:title>Квест Among Us в реальности — Эмонг Ас, Улан-Удэ</video:title>
+      <video:description>Обзор площадки 300 м²: костюмы, шлемы, зоны корабля и игра от 5 до 15 человек.</video:description>
+      <video:content_loc>https://emongas-uu.ru/video/emongas.mp4</video:content_loc>
+      <video:duration>72</video:duration>
+    </video:video>
+  </url>
+</urlset>
